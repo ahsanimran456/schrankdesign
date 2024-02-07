@@ -1,0 +1,158 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Backend/node_modules
+/Backend/.pnp
+/Backend.pnp.js
+
+# testing
+/Backend/coverage
+
+# production
+/Backend/build
+
+# misc
+/Backend/.DS_Store
+/Backend/.env.local
+/Backend/.env.development.local
+/Backend/.env.test.local
+/Backend/.env.production.local
+
+/Backend/npm-debug.log*
+/Backend/yarn-debug.log*
+/Backend/yarn-error.log*
+
+/Backend/node_modules.rar
+/Backend/.env
+
+
+
+# Logs
+Frontend/logs
+Frontend/*.log
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/pnpm-debug.log*
+Frontend/lerna-debug.log*
+
+Frontend/node_modules
+Frontend/dist
+Frontend/dist-ssr
+Frontend/*.local
+
+# Editor directories and files
+Frontend/.vscode/*
+Frontend/!.vscode/extensions.json
+Frontend/.idea
+Frontend/.DS_Store
+Frontend/*.suo
+Frontend/*.ntvs*
+Frontend/*.njsproj
+Frontend/*.sln
+Frontend/*.sw?# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Backend/node_modules
+/Backend/.pnp
+/Backend.pnp.js
+
+# testing
+/Backend/coverage
+
+# production
+/Backend/build
+
+# misc
+/Backend/.DS_Store
+/Backend/.env.local
+/Backend/.env.development.local
+/Backend/.env.test.local
+/Backend/.env.production.local
+
+/Backend/npm-debug.log*
+/Backend/yarn-debug.log*
+/Backend/yarn-error.log*
+
+/Backend/node_modules.rar
+/Backend/.env
+
+
+
+# Logs
+Frontend/logs
+Frontend/*.log
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/pnpm-debug.log*
+Frontend/lerna-debug.log*
+
+Frontend/node_modules
+Frontend/dist
+Frontend/dist-ssr
+Frontend/*.local
+
+# Editor directories and files
+Frontend/.vscode/*
+Frontend/!.vscode/extensions.json
+Frontend/.idea
+Frontend/.DS_Store
+Frontend/*.suo
+Frontend/*.ntvs*
+Frontend/*.njsproj
+Frontend/*.sln
+Frontend/*.sw?
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Backend/node_modules
+/Backend/.pnp
+/Backend.pnp.js
+
+# testing
+/Backend/coverage
+
+# production
+/Backend/build
+
+# misc
+/Backend/.DS_Store
+/Backend/.env.local
+/Backend/.env.development.local
+/Backend/.env.test.local
+/Backend/.env.production.local
+
+/Backend/npm-debug.log*
+/Backend/yarn-debug.log*
+/Backend/yarn-error.log*
+
+/Backend/node_modules.rar
+/Backend/.env
+
+
+
+# Logs
+Frontend/logs
+Frontend/*.log
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+Frontend/pnpm-debug.log*
+Frontend/lerna-debug.log*
+
+Frontend/node_modules
+Frontend/dist
+Frontend/dist-ssr
+Frontend/*.local
+
+# Editor directories and files
+Frontend/.vscode/*
+Frontend/!.vscode/extensions.json
+Frontend/.idea
+Frontend/.DS_Store
+Frontend/*.suo
+Frontend/*.ntvs*
+Frontend/*.njsproj
+Frontend/*.sln
+Frontend/*.sw?
